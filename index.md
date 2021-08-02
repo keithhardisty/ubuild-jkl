@@ -79,30 +79,6 @@ page_sections:
   content: Work out a measurable action plan that you execute
   slug: ''
   background: background-1
-- template: 1-column-text
-  block: one-column-1
-  headline: Skills
-  slug: skills
-  content: ''
-  background: ''
-- template: 3-column-text
-  block: three-column-1
-  col_1:
-    headline: Website Development
-    content: From updates and enhancements to new builds. All development is done
-      using web best practices, keeping your website optimized for success.
-    slug: ''
-  col_2:
-    headline: Apps & Integrations
-    content: Apps extend functionality, and integrations connect functionality. Successfully
-      implemented, data should flow automatically, enabling simple or complex business
-      strategies to execute seamlessly.
-    slug: ''
-  col_3:
-    headline: SEO
-    content: Implement best Search Engine Optimization (SEO) practices to generate
-      increased organic traffic.
-    slug: ''
 - template: detail-content
   block: text-1
   headline: Skills
