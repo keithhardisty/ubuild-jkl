@@ -293,7 +293,7 @@ input.inverted::placeholder {
 }
 
 .block-hero-2 {
-  --bg: #00076f;
+  --bg: #{{ accent_1 }};
   --text: #fff;
   -ms-flex-direction: column;
   flex-direction: column;
