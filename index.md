@@ -56,6 +56,7 @@ page_sections:
   media:
     image: "/uploads/2021/08/02/coding-on-laptop_535x.jpg"
     alt_text: Web developer working on laptop
+  background: background-1
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -65,6 +66,7 @@ page_sections:
   media:
     image: "/uploads/2021/08/02/creative-brain-storm_535x.jpg"
     alt_text: Person solving business integration problems
+  background: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -74,6 +76,7 @@ page_sections:
   headline: "<strong>Consulting</strong>"
   content: Work out a measurable action plan that you execute
   slug: ''
+  background: ''
 - template: 1-column-text
   block: one-column-1
   headline: Skills
@@ -105,6 +108,7 @@ page_sections:
     this demo in Forestry</a>.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
     article</a> and create your own Blocks.</p></li><li><p>Add and customize the available
     Blocks and preview them as you go along.</p></li></ol>
+  background: ''
 - template: signup-bar
   block: cta-bar
   content: Stay in touch!
