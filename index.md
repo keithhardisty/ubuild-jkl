@@ -33,6 +33,15 @@ page_sections:
     image: ''
     alt_text: ''
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
+- template: 1-column-text
+  block: one-column-1
+  slug: about
+  headline: About
+  content: Through 7 years of working in the digital marketing space, building high
+    performing ecommerce websites that convert has become a true passion and joy.
+    When you are small or just starting out, there is a lot of work and usually not
+    that many hands. Having the right solutions in place is critical to scaling your
+    company fast.
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -55,14 +64,6 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
-- template: 1-column-text
-  block: one-column-1
-  slug: responsive
-  headline: 16 Fully Responsive Design Blocks
-  content: |
-    The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using <a href="https://forestry.io">Forestry</a>. Once the site is imported you can immediately
-    create new sites and make them fully customizable.
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
@@ -83,5 +84,11 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
+- template: 4-column-footer
+  block: footer-2
+  image: "/uploads/2021/08/02/kh-logo.png"
+  col_2: keithhardisty@gmail.com
+  col_3: ''
+  col_4: ''
 
 ---
