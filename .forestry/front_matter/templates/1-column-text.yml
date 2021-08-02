@@ -11,3 +11,17 @@ fields:
   name: column
   label: Column
   template: text-column
+- name: background
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - background-1
+    - background-2
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Background
