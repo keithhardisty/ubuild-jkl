@@ -58,7 +58,7 @@ page_sections:
     alt_text: Web developer working on laptop
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   slug: ''
   headline: "<strong>Apps &amp; Integrations</strong>"
   content: Scale and automate your business
@@ -71,7 +71,7 @@ page_sections:
   media:
     image: "/uploads/2021/08/02/business-meeting-over-coffee_535x.jpg"
     alt_text: Ecommerce website consulting
-  headline: Consulting
+  headline: "<strong>Consulting</strong>"
   content: Work out a measurable action plan that you execute
   slug: ''
 - template: 1-column-text
