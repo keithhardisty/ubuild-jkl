@@ -44,3 +44,17 @@ fields:
     - Right
   label: Media Alignment
   default: Right
+- name: background
+  type: select
+  default: ''
+  config:
+    required: false
+    options:
+    - background-1
+    - background-2
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Background
