@@ -125,7 +125,7 @@ p {
   padding: 0.5rem 1rem;
 }
 
-input {
+input, textarea {
   border: none;
   border-bottom: 1px solid #000;
   font-size: 16px;
@@ -147,7 +147,7 @@ input::placeholder {
   color: #666;
 }
 
-input.inverted {
+input.inverted, textarea.inverted {
   border-bottom: 1px solid #fff;
   color: #000;
   background: #fff;

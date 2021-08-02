@@ -1,0 +1,18 @@
+<section id="{{ section.slug | slugify }}" class="block block-one-column-1{% if section.background %} {{ section.background }}{% endif %}">
+  <div class="container">
+    <div class="columns">
+      <div class="column">
+        <form netlify="">
+          <div>
+            <input type="text" id="name" name="name" placeholder="Full Name" class="inverted">
+            <input type="email" id="email" name="email" placeholder="Email Address" class="inverted">
+            <textarea name="message" id="message" class="inverted" placeholder="Type Message Here"></textarea>
+          </div>
+          <div class="">
+            <button class="button primary">Submit</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>
