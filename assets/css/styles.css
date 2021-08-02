@@ -1,8 +1,5 @@
----
----
-
 :root{
-  --bg: #{{ site.accent_1 }};
+  --bg: #00076f;
   --text: #fff;
 }
 
