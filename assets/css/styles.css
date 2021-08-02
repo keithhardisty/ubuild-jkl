@@ -1,4 +1,8 @@
-* {
+:root {
+    --bg: #00076f;
+}
+
+  }* {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
@@ -293,7 +297,6 @@ input.inverted::placeholder {
 }
 
 .block-hero-2 {
-  --bg: #00076f;
   --text: #fff;
   -ms-flex-direction: column;
   flex-direction: column;
