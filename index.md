@@ -68,7 +68,7 @@ page_sections:
   media:
     image: "/uploads/2021/08/02/creative-brain-storm_535x.jpg"
     alt_text: Person solving business integration problems
-  background: ''
+  background: background-1
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -78,7 +78,7 @@ page_sections:
   headline: "<strong>Consulting</strong>"
   content: Work out a measurable action plan that you execute
   slug: ''
-  background: ''
+  background: background-1
 - template: 1-column-text
   block: one-column-1
   headline: Skills
