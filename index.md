@@ -82,21 +82,20 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Skills
-  content: "<ul><li><p><strong>Website Development</strong></p><p>From updates and
-    enhancements to new builds. All development is done using web best practices,
-    keeping your website optimized for success.</p><p></p></li><li><p><strong>Apps
-    &amp; Integrations</strong></p><p>Apps extend functionality, and integrations
-    connect functionality. Successfully implemented, data should flow automatically,
-    enabling simple or complex business strategies to execute seamlessly.</p><p></p></li><li><p><strong>SEO</strong></p><p>Implement
-    best Search Engine Optimization (SEO) practices to generate increased organic
-    traffic.</p><p></p></li><li><p><strong>Product Photography</strong></p><p>Product
-    photos are the first impression of your product, and they need to be well lit,
-    focused, and have continuity.</p><p></p></li><li><p><strong>Social Media</strong></p><p>Not
-    only is social media a great way to connect with your (potential) customers, it
-    is now armed as a selling channel that integrates directly to your Shopify store.</p><p></p></li><li><p><strong>Data
-    Cleaning</strong></p><p>If your business data is a little less than organized,
-    get help cleaning, organizing, and optimizing the formatting so it's easy to maintain
-    moving forward.</p></li></ul>"
+  content: "<p><strong>Website Development</strong></p><p>From updates and enhancements
+    to new builds. All development is done using web best practices, keeping your
+    website optimized for success.</p><p></p><p><strong>Apps &amp; Integrations</strong></p><p>Apps
+    extend functionality, and integrations connect functionality. Successfully implemented,
+    data should flow automatically, enabling simple or complex business strategies
+    to execute seamlessly.</p><p></p><p><strong>SEO</strong></p><p>Implement best
+    Search Engine Optimization (SEO) practices to generate increased organic traffic.</p><p></p><p><strong>Product
+    Photography</strong></p><p>Product photos are the first impression of your product,
+    and they need to be well lit, focused, and have continuity.</p><p></p><p><strong>Social
+    Media</strong></p><p>Not only is social media a great way to connect with your
+    (potential) customers, it is now armed as a selling channel that integrates directly
+    to your Shopify store.</p><p></p><p><strong>Data Cleaning</strong></p><p>If your
+    business data is a little less than organized, get help cleaning, organizing,
+    and optimizing the formatting so it's easy to maintain moving forward.</p>"
   background: ''
 - template: signup-bar
   block: cta-bar
