@@ -1,8 +1,8 @@
-:root {
-    --bg: #00076f;
+:root{
+  --bg: #00076f;
 }
 
-  }* {
+* {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
