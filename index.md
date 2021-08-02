@@ -59,19 +59,21 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  slug: customize
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can be edited in Forestry
-    CMS.
+  slug: ''
+  headline: "<strong>Apps &amp; Integrations</strong>"
+  content: Scale and automate your business
   media:
-    image: "/uploads/2018/06/21/edit.gif"
-    alt_text: Customize Blocks
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: All Available Blocks
-  slug: blocks
+    image: "/uploads/2021/08/02/creative-brain-storm_535x.jpg"
+    alt_text: Person solving business integration problems
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  media:
+    image: "/uploads/2021/08/02/business-meeting-over-coffee_535x.jpg"
+    alt_text: Ecommerce website consulting
+  headline: Consulting
+  content: Work out a measurable action plan that you execute
+  slug: ''
 - template: detail-content
   block: text-1
   headline: Steps to Build a Site!
@@ -82,7 +84,7 @@ page_sections:
     Blocks and preview them as you go along.</p></li></ol>
 - template: signup-bar
   block: cta-bar
-  content: ''
+  content: Stay in touch!
   email_recipient: ''
 - template: simple-footer
   block: footer-1
