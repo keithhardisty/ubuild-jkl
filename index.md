@@ -89,11 +89,11 @@ page_sections:
     connect functionality. Successfully implemented, data should flow automatically,
     enabling simple or complex business strategies to execute seamlessly.</p><p></p></li><li><p><strong>SEO</strong></p><p>Implement
     best Search Engine Optimization (SEO) practices to generate increased organic
-    traffic.<br></p></li><li><p><strong>Product Photography</strong></p><p>Product
+    traffic.</p><p></p></li><li><p><strong>Product Photography</strong></p><p>Product
     photos are the first impression of your product, and they need to be well lit,
-    focused, and have continuity.<br></p></li><li><p><strong>Social Media</strong></p><p>Not
+    focused, and have continuity.</p><p></p></li><li><p><strong>Social Media</strong></p><p>Not
     only is social media a great way to connect with your (potential) customers, it
-    is now armed as a selling channel that integrates directly to your Shopify store.<br></p></li><li><p><strong>Data
+    is now armed as a selling channel that integrates directly to your Shopify store.</p><p></p></li><li><p><strong>Data
     Cleaning</strong></p><p>If your business data is a little less than organized,
     get help cleaning, organizing, and optimizing the formatting so it's easy to maintain
     moving forward.</p></li></ul>"
