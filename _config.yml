@@ -7,7 +7,6 @@ description: ubuild-jekyll is a Jekyll theme desgined to work with Forestry's Bl
   Forestry Blocks UI that will empower content editors to construct their own webpages.
 baseurl: "/"
 url: ubuild.netlify.app
-accent_1: 00076f
 defaults:
 - scope:
     path: ''
