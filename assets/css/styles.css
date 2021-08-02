@@ -1,5 +1,6 @@
 :root{
   --bg: #00076f;
+  --text: #fff;
 }
 
 * {
@@ -95,8 +96,8 @@ p {
 }
 
 .button.primary {
-  background-color: #ffcb3c;
-  color: #fff;
+  background-color: var(--bg);
+  color: var(--text);
 }
 
 .button.primary.inverted {
@@ -106,7 +107,7 @@ p {
 
 .button.secondary {
   background-color: transparent;
-  border: 1.5px solid #ffcb3c;
+  border: 1.5px solid var(--bg);
 }
 
 .button.small {
@@ -181,7 +182,7 @@ input.inverted::placeholder {
 }
 
 .block-header-1 .nav-item.active a {
-  color: #ffcb3c;
+  color: var(--bg);
 }
 
 .block-header-1 .nav-item a {
@@ -194,7 +195,7 @@ input.inverted::placeholder {
 }
 
 .block-header-1 .nav-item.active a:hover {
-  color: #ffcb3c;
+  color: var(--bg);
 }
 
 .block-header-1 .nav-item:last-of-type {
@@ -233,7 +234,7 @@ input.inverted::placeholder {
 }
 
 .block-header-2 .nav-item.active a {
-  color: #ffcb3c;
+  color: var(--bg);
 }
 
 .block-header-2 .nav-item a {
@@ -246,7 +247,7 @@ input.inverted::placeholder {
 }
 
 .block-header-2 .nav-item.active a:hover {
-  color: #ffcb3c;
+  color: var(--bg);
 }
 
 .block-header-2 .nav-item:last-of-type {
@@ -275,8 +276,6 @@ input.inverted::placeholder {
 }
 
 .block-hero-1 {
-  --bg: #ffcb3c;
-  --text: #fff;
   display: -ms-flexbox;
   display: flex;
   -ms-flex-direction: column;
@@ -297,7 +296,6 @@ input.inverted::placeholder {
 }
 
 .block-hero-2 {
-  --text: #fff;
   -ms-flex-direction: column;
   flex-direction: column;
   -ms-flex-pack: center;
@@ -453,8 +451,8 @@ input.inverted::placeholder {
 
 .block-cta-bar {
   padding: 2rem;
-  background: #ffcb3c;
-  color: #fff;
+  background: var(--bg);
+  color: var(--text);
 }
 
 .block-cta-bar .columns {
@@ -483,7 +481,7 @@ input.inverted::placeholder {
 .block-cta-bar .text p {
   font-size: 20px;
   font-size: 1.25rem;
-  color: #fff;
+  color: var(--text);
 }
 
 .block-cta-bar .cta {
