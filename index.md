@@ -24,7 +24,7 @@ page_sections:
   block: hero-2
   slug: features
   headline: "<strong>Shopify expertise for your scalable business</strong>"
-  content: The tool that allows you to build beautiful sites<br>
+  content: ''
   cta:
     enabled: true
     url: "#contact"
@@ -42,17 +42,20 @@ page_sections:
     When you are small or just starting out, there is a lot of work and usually not
     that many hands. Having the right solutions in place is critical to scaling your
     company fast.
+- template: 1-column-text
+  block: one-column-1
+  headline: Services
+  slug: services
+  content: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  slug: swap
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
+  slug: ''
+  headline: "<strong>Development</strong>"
+  content: Updates, enhancements, or full setups.
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
-    alt_text: uBuild Blocks Mock-Up
+    image: "/uploads/2021/08/02/coding-on-laptop_535x.jpg"
+    alt_text: Web developer working on laptop
 - template: content-feature
   block: feature-1
   media_alignment: Right
