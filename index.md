@@ -42,11 +42,13 @@ page_sections:
     When you are small or just starting out, there is a lot of work and usually not
     that many hands. Having the right solutions in place is critical to scaling your
     company fast.
+  background: ''
 - template: 1-column-text
   block: one-column-1
   headline: Services
   slug: services
   content: ''
+  background: background-1
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -82,6 +84,7 @@ page_sections:
   headline: Skills
   slug: skills
   content: ''
+  background: ''
 - template: 3-column-text
   block: three-column-1
   col_1:
