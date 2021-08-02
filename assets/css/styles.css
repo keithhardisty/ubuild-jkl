@@ -33,16 +33,19 @@ h2 span.light {
 }
 
 h3 {
+  font-size: 1.5em;
   font-weight: 700;
   letter-spacing: 0;
 }
 
+/*
 h3,
 p {
   font-size: 16px;
   font-size: 1rem;
   line-height: 1.35;
 }
+*/
 
 p {
   font-weight: 400;
@@ -303,7 +306,7 @@ input.inverted::placeholder {
   flex-direction: column;
   -ms-flex-pack: center;
   justify-content: center;
-  min-height: 100vh;
+  min-height: 75vh;
   background-color: var(--bg);
   color: var(--text);
   background-repeat: no-repeat;
