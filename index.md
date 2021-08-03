@@ -106,7 +106,7 @@ page_sections:
   subtitle: Subtitle baby!
 - template: simple-footer
   block: footer-1
-  content: Austin, TX<br><br>&amp;copy; 2021 <a href="https://www.keithhardisty.com"
-    title="Keith Hardisty" target="_blank">Keith Hardisty</a>
+  content: Austin, TX<br><br><strong>©</strong> 2021 <a href="https://www.keithhardisty.com"
+    title="Keith Hardisty">Keith Hardisty</a>
 
 ---
