@@ -103,7 +103,7 @@ page_sections:
   email_recipient: ''
 - template: contact
   block: contact
-  subtitle: ''
+  subtitle: Subtitle baby!
 - template: simple-footer
   block: footer-1
   content: Austin, TX<br><br>&amp;copy; 2021 <a href="https://www.keithhardisty.com"
