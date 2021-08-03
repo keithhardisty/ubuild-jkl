@@ -101,14 +101,12 @@ page_sections:
   block: cta-bar
   content: Stay in touch!
   email_recipient: ''
+- template: contact
+  block: contact
+  subtitle: ''
 - template: simple-footer
   block: footer-1
-  content: Made with ❤︎ in Canada
-- template: 4-column-footer
-  block: footer-2
-  image: "/uploads/2021/08/02/kh-logo.png"
-  col_2: keithhardisty@gmail.com
-  col_3: ''
-  col_4: ''
+  content: Austin, TX<br><br>&amp;copy; 2021 <a href="https://www.keithhardisty.com"
+    title="Keith Hardisty" target="_blank">Keith Hardisty</a>
 
 ---
