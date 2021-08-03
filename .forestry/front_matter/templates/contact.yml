@@ -2,14 +2,13 @@
 label: contact
 hide_body: false
 fields:
-- name: block
-  type: text
-  config:
-    required: false
-  label: block
+- type: text
   hidden: true
-- name: paragraph
+  label: block
+  name: block
+  default: contact
+- name: subtitle
   type: text
   config:
-    required: false
-  label: paragraph
+  required: false
+  label: subtitle
