@@ -1,0 +1,24 @@
+<section id="contact" class="block block-one-column-1 background-1">
+  <div class="container">
+    <div class="columns">
+      <div class="column">
+<h3>Contact</h3>
+<p style="padding-bottom:30px;">I'd love to discuss your project and see if it's a good fit.</p>
+        <form netlify="">
+<input type="text" id="name" name="name" placeholder="Name" class="inverted" style="margin-right:3px;">
+
+<input type="email" id="email" name="email" placeholder="Email" class="inverted" style="margin-left:3px;">
+
+<div>
+<textarea name="message" style="width:455px;margin:10px 0 30px;" placeholder="Type Message Here" class="inverted">
+</textarea>
+</div>
+
+<button class="button primary">Let's Chat</button><button>
+
+</button></form>
+
+      </div>
+    </div>
+  </div>
+</section>
