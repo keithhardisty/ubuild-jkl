@@ -106,7 +106,7 @@ page_sections:
   email_recipient: ''
 - template: simple-footer
   block: footer-1
-  content: Austin, TX<br><br><strong>©</strong> 2021 <a href="https://www.keithhardisty.com"
+  content: Located in Austin, TX<br><br><strong>©</strong> 2021 <a href="https://www.keithhardisty.com"
     title="Keith Hardisty">Keith Hardisty</a>
 
 ---
