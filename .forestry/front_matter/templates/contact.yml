@@ -9,6 +9,6 @@ fields:
   default: contact
 - name: subtitle
   type: text
-  config:
+  config: 
   required: false
   label: subtitle
