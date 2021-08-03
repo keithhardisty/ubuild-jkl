@@ -1,4 +1,15 @@
 ---
 label: contact
 hide_body: false
-fields: []
+fields:
+- name: block
+  type: text
+  config:
+    required: false
+  label: block
+  hidden: true
+- name: paragraph
+  type: text
+  config:
+    required: false
+  label: paragraph
