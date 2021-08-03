@@ -28,6 +28,7 @@ fields:
   - 3-column-text
   - full-width-media-element
   - 2-column-media-element
+  - contact
   - signup-bar
   - simple-footer
   - 4-column-footer
