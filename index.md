@@ -97,13 +97,13 @@ page_sections:
     data is a little less than organized, get help cleaning, organizing, and optimizing
     the formatting so it's easy to maintain moving forward.</p>"
   background: ''
+- template: contact
+  block: contact
+  subtitle: Subtitle baby!
 - template: signup-bar
   block: cta-bar
   content: Stay in touch!
   email_recipient: ''
-- template: contact
-  block: contact
-  subtitle: Subtitle baby!
 - template: simple-footer
   block: footer-1
   content: Austin, TX<br><br><strong>©</strong> 2021 <a href="https://www.keithhardisty.com"
